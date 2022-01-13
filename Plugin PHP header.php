@@ -1,3 +1,4 @@
+<?php
 /**
  * Plugin Name:       My Basics Plugin
  * Plugin URI:        https://example.com/plugins/the-basics/
